@@ -1,0 +1,44 @@
+1) Lê Khoáng
+	2) Lê Trừ
+		3) Lê Khang
+			4) Lê Thờ
+				5) Lê Duy Thiệu
+					6) Lê Duy Khoáng
+						7) Lê Anh Tông
+							8) Lê Kính Tông
+								9) Lê Thần Tông
+									10) Lê Chân Tông
+									10) Lê Huyền Tông
+									10) Lê Gia Tông
+									10) Lê Hy Tông
+										11) Lê Dụ Tông
+											12) Lê Duy Phường
+											12) Lê Thuần Tông
+												13) Lê Hiển Tông
+													14) Lê Ngọc Hân
+													14) Lê Duy Vĩ
+														15) Lê Chiêu Thống
+													14) Lê Ngọc Bình	
+											12) Lê Ý Tông
+	2) Lê Thái Tổ
+		3) Lê Thánh Tông
+			4) Lê Hiến Tông
+				5) Lê Túc Tông
+				5) Lê Uy Mục
+			4) Lê Tân
+				5) Lê Doanh
+					6) Lê Quang Trị
+				5) Lê Sùng
+					6) Lê Cung Hoàng
+					6) Lê Chiêu Tông
+						7) Lê Trang Tông
+						8) Lê Trung Tông
+				5) Lê Tương Dực
+		3) Lê Nhân Tông
+		3) Lê Nghi Dân
+
+1) Nguyễn Phi Phúc
+	2) Nguyễn Nhạc
+	2) Nguyễn Huệ
+		3) Nguyễn Quang Toản
+		 

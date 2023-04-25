@@ -1,0 +1,42 @@
+?- male(mike_tindall).
+true.
+?- divorced(princess_annie,X).                    
+X = captain_mark_phillips.
+?- parent(queen_elizabeth_II,prince_charles).
+true.
+?- child(X,zara_phillips).
+X = mia_grace_tindall.
+?- husband(peter_phillips,X).
+X = autumn_kelly.
+?- wife(sarah_ferguson,prince_andrew).
+false.
+?- father(X,princess_annie).
+X = prince_phillip.
+?- mother(X,prince_harry).
+X = princess_diana.
+?- daughter(X,prince_edward).
+X = lady_louise_mountbatten-winsor.
+?- son(X,prince_edward).
+X = james_viscount_serven.
+?- grandfather(prince_charles,prince_george).
+true.
+?- grandmother(X,peter_phillips).
+X = queen_elizabeth_II.
+?- granddaughter(isla_phillips,princess_annie).
+true.
+?- sibling(princess_beatrice,princess_eugenie).
+true.
+?- sibling(X,lady_louise_mountbatten-winsor).                     
+X = james_viscount_serven.
+?- brother(X,princess_charlotte).
+X = prince_george.
+?- sister(savannah_phillips,isla_phillips).
+true.
+?- aunt(autumn_kelly,X).
+X = mia_grace_tindall.
+?- uncle(X,prince_george).
+X = prince_harry.
+?- niece(mia_grace_tindall,peter_phillips).
+true.
+?- nephew(james_viscount_serven,prince_charles).
+true
